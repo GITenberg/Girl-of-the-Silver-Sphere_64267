@@ -1,11 +1,16 @@
 _repo: Girl-of-the-Silver-Sphere_64267
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 64267-h/images/cover.jpg
 creator:
   author:
     agent_name: Haggard, J. Harvey
     gutenberg_agent_id: '52829'
     url: http://www.gutenberg.org/2009/agents/52829
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64267#Girl-of-the-Silver-Sphere
 gutenberg_issued: '2021-01-11'
 gutenberg_type: Text
 identifiers:
